@@ -1,6 +1,6 @@
-# portainer
-# Combined template lists
+# Portainer Template List
+# Description: Combined template lists
 
 I just combined a bunch of template lists from the internet.
 I did not remove any duplicates.
-Please use search to easy find what needed.
+Please use search to easy find what you need.
